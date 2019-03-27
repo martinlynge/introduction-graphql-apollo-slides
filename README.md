@@ -1,6 +1,6 @@
 # Introduction to GraphQl and Apollo Client
 
-Slides with speaker notes
+Slides with speaker notes. The demo app can be found [here](https://github.com/martinlynge/react-apollo-aws-appsync)
 
 ## Getting started
 
